@@ -11,6 +11,7 @@
 		CA0C0F6224F88D2B00E4F474 /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0C0F6124F88D2B00E4F474 /* DatabaseManager.swift */; };
 		CA0C0F6424F88E3E00E4F474 /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0C0F6324F88E3E00E4F474 /* AuthManager.swift */; };
 		CA0C0F6624F88EA700E4F474 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0C0F6524F88EA700E4F474 /* StorageManager.swift */; };
+		CA0C0F6824F89BAE00E4F474 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0C0F6724F89BAE00E4F474 /* Extensions.swift */; };
 		CAD6F5B724F86DE300339364 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD6F5B624F86DE300339364 /* AppDelegate.swift */; };
 		CAD6F5B924F86DE300339364 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD6F5B824F86DE300339364 /* SceneDelegate.swift */; };
 		CAD6F5BB24F86DE300339364 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD6F5BA24F86DE300339364 /* HomeViewController.swift */; };
@@ -42,6 +43,7 @@
 		CA0C0F6124F88D2B00E4F474 /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 		CA0C0F6324F88E3E00E4F474 /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		CA0C0F6524F88EA700E4F474 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		CA0C0F6724F89BAE00E4F474 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		CAD6F5B324F86DE300339364 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAD6F5B624F86DE300339364 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAD6F5B824F86DE300339364 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				CA0C0F6124F88D2B00E4F474 /* DatabaseManager.swift */,
 				CA0C0F6324F88E3E00E4F474 /* AuthManager.swift */,
 				CA0C0F6524F88EA700E4F474 /* StorageManager.swift */,
+				CA0C0F6724F89BAE00E4F474 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -346,6 +349,7 @@
 				CAD6F5E124F8713200339364 /* EdditProfileViewController.swift in Sources */,
 				CAD6F5E924F8716E00339364 /* SearchResultViewController.swift in Sources */,
 				CAD6F5D424F8706400339364 /* NotificationsViewController.swift in Sources */,
+				CA0C0F6824F89BAE00E4F474 /* Extensions.swift in Sources */,
 				CAD6F5E724F8715C00339364 /* SearchViewController.swift in Sources */,
 				CAD6F5D624F8707700339364 /* ProfileViewController.swift in Sources */,
 				CA0C0F6424F88E3E00E4F474 /* AuthManager.swift in Sources */,
